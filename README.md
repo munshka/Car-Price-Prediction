@@ -16,7 +16,7 @@ Here is a brief description of the steps taken in this project:
 
 4. **Feature Scaling**: We used scaling techniques (MinMax and Standard scaling) to standardize the feature values.
 
-5. **Model Training**: A k-Nearest Neighbors (KNN) model was trained on the scaled data.
+5. **Model Training**: Several models were trained on the scaled data.
 
 6. **Model Evaluation**: The model's performance was evaluated using accuracy metrics.
 
